@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { StyleSheet, View, I18nManager } from 'react-native'
 import stylePropType from 'react-style-proptype';
-import {Platform} from "react-native-web";
 
 // compatability for react-native versions < 0.44
 const ViewPropTypesStyle = stylePropType
